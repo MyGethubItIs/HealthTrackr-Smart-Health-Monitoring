@@ -31,8 +31,7 @@ The Smart Health Monitoring System is an innovative solution designed to leverag
 
 ## Getting Started
 
-## Contributing
-We welcome contributions! Please read our contributing guidelines to get started.
+
 
 
 
